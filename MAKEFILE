@@ -1,0 +1,53 @@
+# MakeFile per CASTRUM.EXE
+
+all: castrum.exe
+
+CFLAGS = -ml
+
+# compila gli array di dati
+.dat.dca:
+	cdat $&
+
+# crea il Window Environent
+att.win:
+	environ att
+cga.win:
+	environ cga
+
+# linka il tutto
+castrum.exe: castrum.obj drivers.obj windows.obj globals.obj objects.obj      \
+ funckeys.obj status.obj agisci.obj musica.obj room.obj gotico.obj panico.obj
+        $(CC) $(CFLAGS) -ecastrum.exe @&&!
+castrum.obj drivers.obj windows.obj globals.obj room.obj gotico.obj
+objects.obj agisci.obj musica.obj status.obj funckeys.obj panico.obj
+graphics.lib
+!
+
+# compila se cambia un header #incluso
+
+castrum.obj:  set.h drivers.h globals.h musica.h funckeys.h agisci.h status.h \
+              panico.h
+ 
+drivers.obj:  drivers.h 
+
+windows.obj:  drivers.h windows.h globals.h
+
+globals.obj:  drivers.h set.h globals.h
+
+objects.obj:  set.h drivers.h globals.h objects.h windows.h
+
+funckeys.obj: set.h drivers.h globals.h funckeys.h windows.h
+
+status.obj:   set.h drivers.h globals.h status.h windows.h
+
+agisci.obj:   set.h drivers.h globals.h gotico.h funckeys.h room.h \
+              status.h objects.h musica.h agisci.h windows.h panico.h
+
+musica.obj:   musica.h
+
+room.obj:     set.h drivers.h globals.h gotico.h objects.h room.h windows.h
+
+gotico.obj:   set.h drivers.h globals.h gotico.h windows.h
+
+panico.obj:   set.h drivers.h globals.h windows.h panico.h
+

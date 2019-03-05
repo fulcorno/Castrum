@@ -1,0 +1,244 @@
+! Ballo in Fa# minore
+! di Angelo Branduardi
+! (c) Jena Soft 1988
+
+@#DFS %120
+
+-^ ! staccato-puntato
+
+! 1a volta
+=8 ?. =16 D>
+=8 D> Z
+D> Z
+L L
+L. =16 S
+=8 F M
+F S
+2F
+F. =16 D>
+=8 D> Z
+D> Z
+L L
+
+L. =16 S
+=8 F M
+L S
+2F
+F =16 S L
+=8 S F
+S L
+S D
+D> Z
+L F
+F *F
+
+2F
+F ?
+D
+S L
+S D
+D> Z
+2L
+2S
+F F
+
+! 1a volta
+=8 ?. =16 D>
+=8 D> Z
+D> Z
+L L
+L. =16 S
+=8 F M
+F S
+2F
+F. =16 D>
+=8 D> Z
+D> Z
+L L
+
+L. =16 S
+=8 F M
+L S
+2F
+F =16 S L
+=8 S F
+S L
+S D
+D> Z
+L F
+F *F
+
+2F
+F ?
+D
+S L
+S D
+D> Z
+2L
+2S
+F F
+
+! 1a volta
+=8 ?. =16 D>
+=8 D> Z
+D> Z
+L L
+L. =16 S
+=8 F M
+F S
+2F
+F. =16 D>
+=8 D> Z
+D> Z
+L L
+
+L. =16 S
+=8 F M
+L S
+2F
+F =16 S L
+=8 S F
+S L
+S D
+D> Z
+L F
+F *F
+
+2F
+F ?
+D
+S L
+S D
+D> Z
+2L
+2S
+F F
+
+! 4a riga
+=8 ? F
+F S
+L Z
+2D>
+2D> =16 D>
+=8 D> M>
+R> D>
+Z S
+2M
+2M
+? =8 Z
+L S
+
+L S
+2F
+F S
+L Z
+2D>
+2D> =16 F
+=8 F S
+L Z
+2D>
+2D> =16 D>
+=8 D> M>
+R> D>
+
+! 2a pagina, 1a riga
+Z S
+M Z
+L S
+F L
+S *F
+2F
+2F
+D> Z
+D> Z
+L L
+L. =16 L
+
+=8 F M
+L S
+2F
+2F =16 D>
+=8 D> Z
+D> Z
+L L
+L. =16 S
+=8 F M
+L S
+
+2F
+F =16 S L
+=8 S F
+S L
+S D
+D> Z
+L F
+F *F
+2F
+F ?
+
+? D
+S L
+S D
+D> Z
+2L
+2S
+F
+3F
+
+? F
+F S
+L Z
+2D>
+2D> =16 D>
+=8 D> M>
+R> D>
+Z S
+2M
+2M
+? Z
+
+! 3a pagina
+L S
+L S
+2F
+F S
+L Z
+2D>
+2D> =16 F
+=8 F S
+L Z
+2D>
+2D> =16 D>
+
+=8 D> M>
+R> D>
+Z S
+M Z
+L S
+F L
+S *F
+2F
+2F
+?. =16 D>
+
+=8 D> Z
+D> Z
+L L
+L. =16 S
+=8 F M
+F S
+2F
+2F =16 D>
+=8 D> Z
+D> Z
+L L
+
+L. =16 S
+=8 F M
+L S
+F
+3F
+
+=1 ?
+!%
+

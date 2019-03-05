@@ -1,0 +1,6 @@
+cga\drawstat.c
+drivers.obj
+globals.obj
+windows.obj
+status.obj
+

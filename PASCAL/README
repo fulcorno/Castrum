@@ -1,0 +1,160 @@
+                      ******************************
+                     **** SANCTI GEORGII CASTRUM ****
+                                ADVENTURE
+                                *********
+
+    Correva l'anno 1000 in San Giorgio Canavese, terra di gloriosi guerrieri...
+Beh, la presentazione di un avventura in un castello  potrebbe  iniziare  cos.
+Invece noi cominciamo dicendo che ci troviamo negli anni '80 e  un  personaggio
+curioso Š il protagonista. Costui Š intenzionato a tutti i costi a conoscere il
+maniero, ormai chiuso al pubblico ed in stato di degrado, tant'Š che  si  mette
+nei pasticci. Alla fine ce la fa. Una volta entrato nasce un problema: come  si
+pu• uscire non visti e quindi evitare la denuncia?
+    Con queste poche righe si pu• sintetizzare la trama di quest'avventura. Non
+si  pu•  fare  ugualmente  per  quello  che  riguarda  le  caratteristiche  del
+programma.  Infatti  nel  realizzarlo  abbiamo reso il pi—  naturale  possibile
+muoversi nel maniero. Inoltre come peculiarit…, tale avventura  Š  virtualmente
+giocabile in  un numero infinito di versioni, poichŠ si adatta alle vostre  ca-
+ratteristiche fisiche. Come gi… detto, ci vorrebbero molte pi— parole  per  de-
+scriverne le potenzialit…, vi chiediamo perci• un po' di  pazienza,  fino  agli
+inizi del prossimo anno, quando il programma sar… messo in vendita.
+
+                                            prodotto da JENA SOFT
+                                                        Canaveis - Piem“nt
+
+
+SCOPO DI QUESTO DISCHETTO :
+===========================
+Questo disco contiene una versione preliminare, parziale, semi-funzionante,
+pluri-puntellata di quello che dovr… diventare il programma frutto delle 
+nostre fatiche di un anno. Siete invitati a prendere visione di questo dimo-
+strativo e farlo circolare liberamente per farlo conoscere. Se il gioco vi
+pare interessante potete chiederci la versione pi— recente del dimostrativo,
+o comprare il gioco (quando sar… pronto). Vi chiediamo di farci pervenire 
+(preferibilmente per posta) eventuali critiche (siate severi!), osservazioni,
+richeste, migliorie, ... che ci possano aiutare nella stesura definitiva 
+dell'avventura. Vi risponderemo, contateci.
+
+SCHEDA TECNICA :
+================
+
+Riassumiamo qui brevemente le caratteristiche di questo programma.
+
+1) Tutte le informazioni necessarie al gioco sono costantemente sul video,
+   ognuna nella sua finestra.
+2) L'interazione Š completamente guidata: niente pi— vocabolari limitati da
+   imparare a memoria o restrizioni grammaticali, ma agile scelta attraverso
+   i men— di tasti funzione.
+3) Visione prospettica dall'alto degli oltre 200 luoghi visitabili (finestra
+   della stanza).
+4) Immagine ingrandita ad alta risoluzione degli oltre 300 oggetti presenti
+   (finestra dell'oggetto).
+5) Completa manipolazione di ogni oggetto che troverete: siete liberi di fare
+   quello che volete nel castello.
+6) Possibilit… di mandare il racconto (visibile in caratteri gotici nella
+   finestra a pergamena) su stampante in 5 formati diversi, con spooler di
+   stampa che non rallenta il gioco.
+7) Azioni in "tempo reale simulato": il tempo scorre esattamente come se voi
+   foste realmente all'interno del castello.
+8) Help in linea per le situazioni pi— critiche (ma non aspettatevi che
+   l'avventura si risolva da sola!).
+9) Aspetto grafico curato nei particolari, che sfrutta al massimo le
+   possibilit… offerte dalla risoluzione di 640*400 pixel dell'M24.
+10) Completa simulazione dello stato fisico del personaggio: Š come se foste in
+    tutto e per tutto nel castello, mente e corpo.
+11) Presenza di molti personaggi tipici di San Giorgio, che appariranno quando
+    meno ve l'aspettereste.
+12) Assoluta aderenza al castello originale nella disposizione di stanze,
+    porte, finestre, oggetti (provate voi a farne la pianta a mano!).
+13) Possibilit… di scegliere se i tasti funzione devono mostrare delle parole
+    o delle icone.
+14) Controllo dell'output (messaggi sulla pergamena e visualizzazione degli
+    oggetti) sotto il controllo del giocatore, che pu• scegliere quante
+    informazioni vuole ricevere.
+15) Sottofondo musicale (eliminabile a scelta) che si adatta alle situazioni
+    che via via vivrete, funzionante in background senza rallentare le fun-
+    zioni del programma.
+
+Il programma Š stato scritto in Turbo Pascal 4.0 e deriva da pi— di 3000 
+linee di sorgente. I nostri ringraziamenti alla Borland International per
+aver messo a disposizione di noi programmatori una tale potenza compilatrice.
+
+AUTORI
+
+  Fulvio Corno "Fujola" : programmatore
+  Paolo Galetto "G…lis" e Stefano Roletti "Stva" : preparazione dei dati
+
+COLLABORATORI
+    Livio Pogliano "Puja" : immagini dallo scanner
+    Gigi Lora "Testa Mƒta" : trascrizione e arrangiamento musiche
+    Gianni Romano "Ruma" : digitazione dati
+
+
+N.B. COME USARE IL PROGRAMMA DIMOSTRATIVO
+=========================================
+
+                                   tasti funzione
+                                      |  F1 - F10
+                ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍËÍ|ÍËÍÍÍÍÍÍÍÍÍÍ»
+                º  disegno stanza   ÇÄÂÄ¶  dati sulº
+                º  in 3 dimensioni  ÇÄÅÄ¶ giocatoreº
+                º  vista dall'alto  ÇÄÅÄ¶posizione º     SUDDIVISIONE
+       nome  ¿__ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¹ÄÅÄ¶switches  º         DEL
+      stanza Ù  ÌÍÍÍÍÍÍÑÄÄÄÄÄÄÄÄÄÄÄÄ¶ÄÅÄ¶   oggettiº        VIDEO 
+   oggetti ¿____º__    ³/^^^\1 /^^^\ÈÍÏÍ¹  presentiº       DURANTE
+  soffitti Ù____ÌÍÍÍÍÍÍµ\___/ |_____|2  ³inventarioº         IL 
+ nome ogg.--Ù   ÌÍÍÍÍÍÍÏÄÄÄÄ/ÄÄÄÄÄÄÄÄÄÄÄÏÍÍÍÍÍÍÍÍÍÍ¹        GIOCO
+                º         / pergamena con la voce  º
+                º       /    del ''narratore,,     º
+                ÈÍÍÍÍÍ/ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+                    /
+              1) orologio analogico a lancette
+              2) orizzonte con sole e luna
+
+La finestra in alto al centro Š l'immagine dei tasti funzione per chi ha 
+tastiere in cui i tasti sono disposti in due colonne verticali.
+Tutte le opzioni di gioco sono accessibili attraverso l'albero del sotto-menu.
+Ci sono poi delle 'scorciatoie' :
+  TAB  : sostituisce le icone disegnate nel tasto con una descrizione a 
+	 parole della funzione svolta dal tasto ( e v/v ) .
+FRECCE : per muoversi da una stanza ad un'altra. Se ci sono pi— porte nella
+	 direzione specificata, si dovr… scegliere attraverso quale porta
+	 passare selezionandola nel men— che apparir….
+RETURN : esce dal programma dimostrativo (attenzione: non chiede conferma)
+  ESC  : torna al men— principale annullando l'azione in corso di selezione
+PgUp/PgDn: variano la posizione fisica
+ +  /  - : variano la velocit… di movimento   ( v. icone a destra )
+Tasti di Shift,Ctrl,ALT : sbloccano il programma quando si trova in stato
+	di pausa (all'inizio, o dopo la pressione della 'pausa'), 
+        riconoscibile dalla presenza dei punti cardinali. Nelle tastiere
+        Olivetti lampeggiano anche i LEDs.
+Per aprire e/o chidere una porta bisogna prima selezionare il men— "movimento" 
+(quello con le 4 frecce).
+Per disattivare la musica scegliere: controlli (le levette) / musica (le note)
+/ STOP . Per riattivarla idem con PLAY finale.
+
+Premere ESC per iniziare a giocare.
+
+***************************************************************************
+***  ATTENZIONE ATTENZIONE ATTENZIONE ATTENZIONE ATTENZIONE ATTENZIONE  ***
+*** Ricordiamo che questa Š solo una versione preliminare, non ancora   ***
+*** completa (perchŠ a tutt'oggi NON esiste ancora la versione finale), ***
+*** con funzionalit… ridotte e limitato numero di stanze e di oggetti.  ***
+*** Pertanto, se selezionate un'azione che il programma sembra NON      ***
+*** eseguire... beh, NON la esegue affatto, non essendo ancora stato    ***
+*** programmato per farlo. Questa deficenza sar… assente dalle versioni ***
+*** che verranno messe in vendita (ovviamente!).                        ***
+***************************************************************************
+
+Questo file Š aggiornato al 9/11/88 .
+CASTRUM.EXE versione 0.02 DEMO
+
+Per informazioni e/o comunicazioni :
+
+      Fulvio Corno
+      via Giulio 24
+10090 San Giorgio Canavese ( TO )
+
+      Tel. 0124 / 32160
+
+

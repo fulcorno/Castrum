@@ -1,0 +1,147 @@
+* File "STANZE.DAT"
+* contiene le informazioni sulle stanze, sottostanze e porte
+* del castello, per costruire gli array luogo^[], stanza^[] e porta^[].
+* FORMATO DI CODIFICA:
+* Prima parte: STANZE.      ->  intestazione ":S" <cr> #stanze
+*   Ogni record ä del tipo:
+*   <n^stanza> <nome stanza>
+*   <altezza> <tipo soffitto> <tipo pavimento>
+*   [ descrizione ]
+* Seconda parte: SOTTOSTANZE -> intestazione ":s" <cr> #luoghi
+*   I record sono del tipo:
+*   <n^sottost.> <n^stanza appartenenza>
+*   <GLPx> <GLPy>
+*   <n^parete N> <tappezzeria> [ <#porta1N><uscita><tipo> [ <#porta2N> ... ] ]
+*   ...idem per E,S,O
+* Terza parte: PORTE  -> intestazione ":P" <cr> #porte
+*   Ogni record contiene:
+*   <n^porta>
+*   <tipo porta>  [ <stato iniziale> ]
+* Conclusione: -> :end
+* Seguono i dati:
+
+:S
+7
+
+1 Stanzone a NordOvest
+15 0 0
+Ma me c'as fa a far an salun ant l'anvers? Gli architet ad na vota a s'eran propi màt. Propi me cÅi d'al dç d'an ch'ìi.
+
+2 Saloncino centrale
+15 0 0
+Sta stansia si al'ä propi bela: secund mi i Re, i Prinsi e ji Sgnur an visita al castel al'eran ricevó ant'as lucÉl.
+
+3 Bagno ( = cesso )
+10 0 0
+Al'era ura: it'ä truvÖ al ces! It pudrise gavate cul berlun ca pusia dal bîc, ma furse i t'ä nin basta at tämp. PasiÇnsa.
+
+4 Camera da letto
+15 0 0
+Eh, sç. Anche i padrun dij castei a vanta ca droman. Pensa mac a quante bele fumne a l'an drumi si. E a quante a l'an nin drumi...
+
+5 Stanza sulla piazza
+20 0 0
+I t'e ant'an salun dan'te ch'it vese la piÉsa, la gesia e i fiîi ad cui ca stan ant'al palÖs ca giÅvan a balun cuntra le machine pustegiÖ.
+
+6 Corridoio lungo
+15 0 0
+Mentre ch'it pase ant'al curidur it pänse al valur dij quader ch'al'eran pendÅ sç quai cent'an fÖ.
+
+7 Salone delle feste
+20 0 0
+A smia ad sentir ancura la mÅsica 'dla ghirunda ca bÅta alegria ai nobei c'as truavan a far festa.
+
+
+
+:s
+7
+
+1 1
+15 15
+ 6  00  01 02  02 02
+ 4  00  04 03
+11  00
+12  00
+
+2 2
+5 15
+36  00
+ 4  00  03 03
+ 6  00  02 01  01 01
+35  00
+
+3 3
+20 5
+ 4  00  06 06
+ 4  00  05 04
+ 2  00
+ 6  00  04 01  03 02
+
+4 4
+20 10
+ 4  00  07 06
+16  00
+ 9  00
+ 4  00  05 03
+
+5 5
+15 10
+44  00
+29  00  11 07  10 06
+36  00
+44  00
+
+6 6
+5 20
+ 6  00  08 07  09 07
+ 9  00
+ 6  00  07 04  06 03
+ 1  00  10 05
+
+7 7
+10 20
+12  00
+11  00
+ 6  00  09 06  08 06
+23  00  11 05
+
+
+
+:P
+11
+
+1
+0
+
+2
+1 0
+
+3
+1 1
+
+4
+0
+
+5
+1 0
+
+6
+1 1
+
+7
+0
+
+8
+2
+
+9
+1 2
+
+10
+0
+
+11
+0
+
+:end
+

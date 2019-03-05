@@ -1,0 +1,344 @@
+Jena Soft SANCTI GEORGII CASTRUM
+Elenco degli oggetti presenti nell'avventura
+******************
+*** TOP SECRET ***
+******************
+
+01.** CIBO
+01.01 toma "tuma"
+01.02 pagnotta "micca"
+01.03 fungo
+01.04 castagne
+01.05 bacche
+01.06 "ciuciamarus"
+01.07 gatto morto
+01.08 salame
+01.09 cicoria
+01.10 noci
+01.11 mela "póm"
+
+02.** CHIAVE (4-5 per tipo)
+02.01 chiave moderna
+02.02 chiave tradizionale
+02.03 chiave per portoni
+
+03.** BASTONE
+03.01 manico di scopa "manico 'd ramasa"
+03.02 clava "barït"
+03.03 spranga fermaporte
+03.04 manico di pala
+03.05 bastone da passeggio
+03.06 attizzatoio
+03.07 piede di porco
+03.08 spranga fermaportoni
+03.09 spranga fermaporte (DUPLICATO !!!)
+03.10 bastone da polenta
+03.11 asse da muratore
+
+04.** TAVOLO
+04.01 tavolo stile Luigi XIV (o giu` di li)
+04.02 tavolo rustico
+04.03 tavolo da cucina (di marmo)
+04.04 tavolo rotondo (vedi ''cavalieri della tavola ... '')
+
+05.** ARMADIO
+05.01 armadio stile Luigi ...
+05.02 armadio "modello 'veja manera'" a muro
+
+06.** TENDA
+06.01 tenda di velluto
+06.02 tenda ricamata alla francese
+06.03 tenda di juta strappata
+06.04 tenda di pizzo
+
+07.** CORDA
+07.01 spago "firsela"
+07.02 corda robusta a treccia "tersa"
+07.03 corda per mietilega "corde dij balot"
+07.04 corda di un motocoltivatore
+
+08.** ATTREZZO PESANTE
+08.01 tridente
+08.02 pala robusta
+08.03 pala di legno marcio
+08.04 lama di pala (senza manico)
+08.05 picozza
+08.06 ascia "piola"
+08.07 falce "ranza"
+
+09.** GIOIELLO
+09.01 anello
+09.02 diamante 'sciolto'
+09.03 corona
+09.04 scettro
+
+10.** ATTREZZO LEGGERO
+10.01 martellino
+10.02 mazza
+10.03 tenaglia
+10.04 tenaglie per il ghiaccio
+10.05 forbici "tisoire"
+10.06 lima
+10.07 pialla
+10.08 "gratacan"
+
+11.** LETTO-DIVANO
+11.01 letto a una piazza
+11.02 letto a due piazze
+11.03 letto con baldacchino
+11.04 letto a castello
+11.05 branda
+11.06 divano tradizionale
+11.07 divano triclino (alla Paolina Borghese)
+11.08 poltrona
+11.09 trono
+11.10 materasso di lana
+11.11 "pajÖsa"
+11.12 materasso di foglie secche
+11.13 materasso "crin"
+
+12.** SEDIA
+12.01 stile Luigi ... (in ferro battuto)
+12.02 "cadrega cagoira"
+12.03 puff
+12.04 banco da Chiesa
+12.05 inginocchiatoio
+12.06 sgabello
+12.07 sedia rozza
+12.08 panca
+12.09 "cadrega at paja"
+
+13.** BOTTIGLIA (CONTENITORE LIQUIDI)
+13.01 fiasco
+13.02 pintone "dubbi"
+13.03 damigiana
+13.04 bottiglia normale
+13.05 alambicco
+13.06 ciotola
+13.07 secchio "sigilin" normale
+13.08 secchio "sigilin" pozzo
+13.09 innaffiatoio di metallo
+
+14.** TAPPETO-ARAZZO-QUADRO
+14.01 tappeto persiano
+14.02 tappeto rozzo "gruser"
+14.03 arazzo
+14.04 affesco
+14.05 quadro
+14.06 tappezzeria di carta
+14.07 tappezzeria di canapa
+
+15.** PENTOLA
+15.01 paiolo
+15.02 padella "ramina"
+15.03 pentolino "peilot"
+
+16.** TINO-TORCHIO
+16.01 tino
+16.02 torchio
+
+17.** SCOPA "RAMASA"
+17.01 scopa di saggina
+17.02 scopa da strega (modello Scundu)
+
+18.** BATTERIA
+18.01 batteria mezza-torcia 1.5 V
+18.02 batteria piatta 4.5 V
+
+19.** SPADA
+19.01 spadone
+19.02 alabarda
+19.03 spada
+19.04 scimitarra
+19.05 lancia
+
+20.** ILLUMINAZIONE
+20.01 torcia elettrica
+20.02 lampada ad olio
+20.03 lampada a petrolio
+20.04 fiaccola
+20.05 lampadario a travi di legno "trau ad bosc"
+20.06 lampadario a lacrime di cristallo
+20.07 lacrima di lampadario isolata
+20.08 candele
+20.09 candelabro ebraico (7 braccia)
+20.10 candelabro ad 1 posto
+
+21.** RADIO
+21.01 radio
+
+22.** COPERTA
+22.01 plaid scozzese
+22.02 coperta ricamata
+22.03 coperta militaresca
+
+23.** CANCELLERIA
+23.01 lettera (nel senso di busta affrancata)
+23.02 blocco notes
+23.03 carta di Roletti
+23.04 penna per scrivere "piÅma"
+23.05 calamaio
+23.06 matita matita
+23.07 matita matita da muratore
+
+24.** FIAMMIFERO-ACCENDINO
+24.01 fiammifero
+24.02 scatola di fiammiferi
+
+25.** MOTOCOLTIVATORE
+25.01 motocoltivatore
+
+26.** COLTELLO
+26.01 coltello da macellaio
+26.02 coltello da tavolo (d'argento)
+26.03 coltello-sega
+26.04 sega da boscaiolo
+
+27.** OSSA
+27.01 femore
+27.02 teschio
+
+28.** SPECCHIO
+28.01 specchio a mano
+28.02 specchio da muro
+
+29.** POSATA (non coltelli)
+29.01 forchetta
+29.02 cucchiaio
+29.03 mestolo
+
+30.** LATERIZI
+30.01 mattone
+30.02 coppo
+30.03 pietra focaia
+
+31.** OGGETTO DA BAGNO
+31.01 vaso da notte
+31.02 vasca da bagno
+31.03 lavandino
+31.04 cesso con tazza
+31.05 cesso alla turca
+31.06 rubinetto
+
+32.** LIBRO
+32.01 libro con miniature
+32.02 dizionario
+32.03 atlante militare
+
+33.** PIATTO
+33.01 piatto ceramica
+33.02 piatto legno
+
+34.** BICCHIERI
+34.01 bicchiere flute
+34.02 bicchiere infrangibile
+34.03 boccale
+34.04 tazzina caffä
+34.05 tazza the o latte
+
+35.** SCARPA
+35.01 scarpa di cuoio "curam"
+35.02 pantofola
+35.03 "ciabot"
+35.04 scarpe da menestrello
+35.05 sandali (alla San Francesco)
+
+36.** "BRAS"
+36.01 "bras"
+
+37.** CATENA
+37.01 catena
+
+38.** SCALA A PIOLI
+38.01 scala a pioli
+
+39.** BOTTE
+39.01 botte
+
+40.** ALTARE DELLA CAPPELLA
+40.01 altare della cappella
+
+41.** FIENO
+41.01 "balot" di fieno
+41.02 covone di fieno
+
+42.** STUFA CERAMICA DI CASTELLAMONTE
+42.01 stufa ceramica di Castellamonte
+
+43.** CAMINO
+43.01 camino
+
+44.** POZZO
+44.01 pozzo
+
+45.** SCAFFALE DI LEGNO
+45.01 scaffale reggidubbi
+45.02 scaffale a muro
+45.03 scaffale volante
+
+46.** STRUMENTO MUSICALE
+46.01 corno
+46.02 tromba
+46.03 tamburo
+46.04 ghironda
+46.05 cromorno
+46.06 clavicembalo
+46.07 violino
+46.08 flauto
+46.09 salterio
+46.10 campana
+
+47.** INDUMENTO
+47.01 cappello da giullare
+47.02 mantella
+47.03 pantaloni
+
+48.** STATUA
+48.01 statua
+
+49.** MANGIATOIA PER CAVALLI
+49.01 mangiatoia per cavalli
+
+50.** ROVI
+50.01 rovi
+
+51.** BORSA
+51.01 da panettiere
+51.02 da sera
+
+52.** GIOCO
+52.01 trottola "trÅla"
+52.02 "cinci"
+52.03 carte da gioco
+52.04 scacchi
+
+53.** ANIMALE IMBALSAMATO
+53.01 testa di cervo imbalsamata
+53.02 testa di stambecco imbalsamata
+53.03 volpe imbalsamata
+53.04 falco imbalsamato
+
+54.** ATTACCAPANNI
+54.01 attaccapanni
+
+55.** FERRO DI CAVALLO
+55.01 ferro di cavallo
+
+56.** ASSE PER TAGLIARE LA CARNE
+56.01 asse per tagliare la carne
+
+57.** ORNAMENTI TETTI
+57.01 parafulmine
+57.02 banderuola
+
+58.** OGGETTI DI TERRACOTTA
+58.01 salvadanaio
+58.02 scodella "scuela"
+
+59.** BALAUSTRA
+59.01 balaustra
+
+60.** CARRUCOLA
+60.01 carrucola
+
+#END

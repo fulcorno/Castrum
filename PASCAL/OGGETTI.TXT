@@ -1,0 +1,319 @@
+Jena Soft SANCTI GEORGII CASTRUM
+Elenco degli oggetti presenti nell'avventura
+******************
+*** TOP SECRET ***
+******************
+
+[01] CIBO
+tuma
+micca (pagnotta)
+fungo
+castagne
+bacche
+ciuciamarus
+gatto morto
+salame
+cicoria
+noci
+póm (mela)
+
+[02] CHIAVE (4-5 per tipo)
+moderna
+tradizionale
+per portoni
+
+[03] BASTONE
+manico 'd ramasa
+clava (barït)
+spranga fermaporte
+manico di pala
+da passeggio
+attizzatoio
+piede di porco
+spranga fermaportoni
+spranga fermaporte
+da polenta
+asse da muratore
+
+[04] TAVOLO
+stile Luigi XIV (o gi` di li)
+"rustico"
+da cucina (di marmo)
+rotondo (vedi "cavalieri della tavola - ")
+
+[05] ARMADIO
+stile Luigi ...
+modello 'veja manera' a muro
+
+[06] TENDE
+di velluto
+ricamata alla francese
+di juta strappata
+di pizzo
+
+[07] CORDE
+firsela (spago)
+tersa (a treccia, robusta)
+mietilega (corde dij balot)
+di un motocoltivatore
+
+[08] ATTREZZI PESANTI
+tridente
+pala robusta
+pala di legno marcio
+lama di pala (senza manico)
+picozza
+piola (ascia)
+ranza (falce)
+
+[09] GIOIELLO
+anello
+diamante 'sciolto'
+corona
+scettro
+
+[10] ATTREZZI LEGGERI
+martellino
+mazza
+tenaglia
+tenaglie per la giÖsa (ghiaccio)
+tisoire (forbici)
+
+[11] LETTI-DIVANI
+letto 1 piazza
+letto 2 piazze
+letto con baldacchino
+letto a castello
+branda
+divano tradizionale
+divano triclino (alla Paolina Borghese)
+poltrona
+trono
+materasso di lana
+pajÖsa
+materasso di foglie secche
+materasso crin
+
+[12] SEDIA
+stile Luigi ... (in ferro battuto)
+cadrega cagoira
+puff
+banco da Chiesa
+inginocchiatoio
+sgabello
+rozza
+panca
+cadrega at paja
+
+[13] BOTTIGLIA (CONTENITORE LIQUIDI)
+fiasco
+dubbi
+damigiana
+normale
+alambicco
+ciotola
+sigilin normale
+sigilin pozzo
+innaffiatoio di metallo
+
+[14] TAPPETO-ARAZZO-QUADRO
+persiano
+rozzo (gruser)
+arazzo
+affesco
+quadro
+tappezzeria di carta
+tappezzeria di canapa
+
+[15] PENTOLE
+paiolo
+ramina 
+peilot
+
+[16] TINO-TORCHIO
+tino
+torchio
+
+[17] RAMASA
+di saggina
+da strega (modello Scundu)
+
+[18] BATTERIE
+1/2 torcia 1.5 V
+piatta 4.5 V
+
+[19] SPADE
+spadone
+alabarda
+spada
+scimitarra
+lancia
+
+[20] ILLUMINAZIONE
+torcia elettrica
+lampada ad olio
+lampada a petrolio
+fiaccola
+lampadario a trau ad bosc
+lampadario a lacrime di cristallo
+lacrima di lampadario isolata
+candele
+candelabro ebraico (7 braccia)
+candelabro ad 1 posto
+
+[21] RADIO
+radio
+
+[22] COPERTA
+plaid scozzese
+ricamata
+militaresca   
+
+[23] CANCELLERIA
+lettera (nel senso di busta affrancata)
+blocco notes
+carta di Roletti
+piÅma (penna)
+calamaio
+matita matita
+matita matita da muratore
+
+[24] FIAMMIFERI-ACCENDINI
+fiammifero
+scatola di fiammiferi
+
+[25] MOTOCOLTIVATORE
+
+[26] COLTELLI
+coltello da macellaio
+coltello da tavolo (d'argento)
+coltello-sega
+sega da boscaiolo
+
+[27] OSSA
+femore
+teschio
+
+[28] SPECCHIO
+a mano
+da muro
+
+[29] POSATE-non coltelli
+forchetta
+cucchiaio
+mestolo
+
+[30] LATERIZI
+mattone
+coppo
+pietra focaia
+
+[31] OGGETTI DA BAGNO
+vaso da notte
+vasca da bagno
+lavandino
+cesso con tazza
+cesso alla turca
+rubinetto
+
+[32] LIBRO
+con miniature
+dizionario
+atlante militare
+
+[33] PIATTI
+piatto ceramica
+piatto legno
+
+[34] BICCHIERI
+bicchiere flute
+bicchiere infrangibile
+boccale
+tazzina caffä
+tazza the o latte
+
+[35] SCARPA
+curam (cuoio)
+pantofola
+ciabot
+scarpe da menestrello
+sandali (alla San Francesco)
+
+[36] BRAS
+
+[37] CATENE
+
+[38] SCALA A PIOLI
+     
+[39] BOTTE 
+
+[40] ALTARE DELLA CAPPELLA
+
+[41] FIENO
+balot
+covone
+
+[42] STUFA CERAMICA DI CASTELLAMONTE
+
+[43] CAMINO
+
+[44] POZZO
+
+[45] SCAFFALI DI LEGNO
+reggidubbi
+a muro
+volanti
+
+[46] STRUMENTI MUSICALI
+corno
+tromba
+tamburo
+ghironda
+cromorno
+clavicembalo
+violino
+flauto
+salterio
+campane
+
+[47] INDUMENTI
+cappello da giullare
+mantella
+
+[48] STATUA
+
+[49] MANGIATOIA per cavalli
+
+[50] ROVI
+
+[51] BORSA 
+da panettiere
+da sera
+
+[52] GIOCHI
+trÅla
+cinci
+carte da gioco
+scacchi
+
+[53] ANIMALI IMBALSAMATI
+testa di cervo
+testa di stambecco
+volpe
+falco
+
+[54] ATTACCAPANNI
+
+[55] FERRO DI CAVALLO
+
+[56] ASSE PER TAGLIARE LA CARNE
+
+[57] ORNAMENTI TETTI
+parafulmine
+banderuola
+
+[58] OGGETTI DI TERRACOTTA
+salvadanaio
+scuela
+
+

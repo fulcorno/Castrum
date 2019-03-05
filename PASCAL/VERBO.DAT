@@ -1,0 +1,139 @@
+* File "VERBO.DAT"
+* contiene i verbi effettivi dell'avventura (array verbo^)
+* Formato:
+* <#verbo> <tipo> <prep> <nome>
+
+1 0 0 @mangia
+mangi
+
+2 0 0 assag-@-gia
+assaggi
+
+3 0 0 @annusa
+annusi
+
+4 1 2 fai@leva
+fai leva con
+
+5 3 3 @picchia
+picchi
+
+6 0 0 sali@sopra
+sali sopra
+
+7 0 0 @sposta
+sposti
+
+8 1 1 @apri
+apri
+
+9 1 1 @chiudi
+chiudi
+
+10 0 0 @copriti
+ti copri con
+
+11 0 0 @strappa
+strappi
+
+12 3 0 @lega
+leghi
+
+13 3 0 @slega
+sleghi
+
+14 0 0 calati@giu`
+ti cali gi— con
+
+15 0 0 arram-@-picati
+ti arrampichi su
+
+16 0 0 @scava
+scavi
+
+17 3 0 @taglia
+tagli
+
+18 0 0 @bevi
+bevi
+
+19 1 1 @riempi
+riempi
+
+20 1 1 @vuota
+vuoti
+
+21 0 0 @scopa
+scopi con
+
+22 0 0 @vola
+voli con
+
+23 0 0 metti@le@pile
+metti le pile a
+
+24 0 0 togli@le@pile
+togli le pile da
+
+25 0 0 @accendi
+accendi
+
+26 0 0 @spegni
+spegni
+
+27 0 0 @leggi
+leggi
+
+28 3 1 @brucia
+bruci
+
+29 0 0 guar-@-dati
+ti guardi in
+
+30 3 2 @sfrega
+sfreghi
+
+31 0 0 @tocca
+tocchi
+
+32 1 3 @lancia
+lanci
+
+33 0 0 @succhia
+succhi
+
+34 0 0 tira@verso@te
+tiri verso di te
+
+35 0 0 caria@l'as
+it carie l'as
+
+36 0 0 entra@dentro
+entri dentro
+
+37 0 0 @siediti
+ti siedi su
+
+38 0 0 @srotola
+srotoli
+
+39 0 0 arro-@-tola
+arrotoli
+
+40 0 0 stro-@-gliaz-@-zati
+ti strogliazzi su
+
+41 0 0 @sfoglia
+sfogli
+
+42 0 0 fai@areo-@-plano
+fai un aeroplanino con
+
+43 7 0 apri@una@porta
+apri una porta con
+
+44 7 0 chiudi@una@porta
+chiudi una porta con
+
+0
+

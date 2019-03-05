@@ -1,0 +1,68 @@
+* File "FRASI.TXT"
+* Letto RUNTIME: non necessita compilazione
+* Contiene TUTTI i messaggi dell'adventure
+* Formato
+* <tipo><numero> <frase>
+* dove <tipo> == S{tanza} P{orta} O{bj} .{speciale}
+
+* Descrizioni delle stanze fatte fino allo SMAU
+
+s52 Entrando in questa stanza il profumo di abete e pino brusatÖ sentirai. Di fronte a te si trova un camino sopra al quale il grifo stemma potrai osservare.
+s45 Adesso ti trovi in una stanza che ricorda un paese a noi vicino; ovunque ti giri tutto splende poichä le pareti sono rivestite di ceramica 'd Castlamont.
+s46 Entrando in questa stanza mi sembra di ricordare oscuri anni della nostra contrada; sopra te piantato nello soffitto si trova un gancio istess me cul dove hanno impiccato la jena 'd San Giors.
+s44 Il nome di tale stanza mi fa ricordare un guerriero salasso delle nostre terre: Italus dij Giuait, che nel tornar dal bosco con la sua soma, ove si era recato a far dal bîsc, per far riposare il suo giumento sovra le spalle prendesse i tronchi.
+s43 Ora sei in una stanza dalle cui finestre la dimora dei conti Malfatti puoi osservare; in questa villa visse per alcuni anni l'usignolo Belloc che tante glorie con la sua voce al nostro paese diede.
+s49 Se svuotare il baule vorrai, sopra il cesso squaciar dovrai.
+s50 Ti trovi in un luminoso corridoio che il bianco Quinzeina ti mostrerÖ. Vagando in cotesto loco, molti lustri prima che tu vi entrasti il giocondo menestrello Marcobaldo Zoppus la caviglia ci lasciï.
+s55 Dalla finestra di questa stanza (butÖ ant'l'invers) puoi osservare uno dei cortiletti interni di questa dimora. I su pi se 900 o 1000 anni or sono in tale luogo giocavo con la trula.
+s56 Certo che a narrare a un giovincello curioso come te mi stanco anch'io che tanti anni ho giÖ vissuto; quello che pió mi colpisce ä che i su nen que dite di questa stanza!
+s54 Ora sei in una stanza con un bel pavimento di parquet realizzato dal mastro minusier Geppo della Rovere. Alla mia domanda "Arriva dai nostri boschi cotesto legno?", il Geppo rispose "Circa la sua provenienza i su prope poc".
+s75 Il corridoio in cui sei adesso ä il pió lungo del castello. Dalle finestre rivolte a levante puoi osservare come le ciuende ormai cingono il cortile interno di mes dç.
+s59 Entrando in questo corridoio la prima sensazione che hai provato ä il ricco odore emanato dal pavimento e dalle pareti di bîsc. Le feconde terre, ove risiede questo maniero, legno pregiato hanno sempre regalato.
+s48 Guardandoti intorno non puoi che sentirti al Carlevä 'd San Giors. Origliando, il mastro toler Aldo sentirai gridar "Quando ero giovane sovra i trampoli viaggiavo a îei serÖ!".
+s47 Vagando in questo oscuro corridoio le ciape per terra molte volte metterai, e uscendo dirai: "S'in sima i buto na crÅs!".
+s58 Ora ti trovi in una stanza ove fa molto caldo. Guardando i muri potrai scorgere delle scure lÅserte ca pian 'l sul (quando c'ä).
+s57 Vedendo questa stanza mi par di ricordare quando tanti anni fa guardavo il fuoco nella mia baita rustica, mangiando pan e toma. Sopra di te puoi rimirare il nudo tetto ornato dai trau ad roul.
+s92 Ti trovi nella cucina principale del maniero. Girandoti intorno potrai scorgere parecchi bracieri, ove veniva cotta la selvaggina cacciata dai signori nei rigogliosi boschi del Canavese.
+s90 Entrando in questa stanza se verso la Francia gli occhi volterai le lucenti inferriate di bronzo vedrai.
+s91 Osservando i muri di questa stanza, ove si preparavano i cibi per i grandi banchetti, si scorgono appesi dei setacci. Mi pare ancora di ricordare quando, tanti secoli or sono, andavo a raccogliere le lucenti pagliuzze 'nt'l'Eva d'Or.
+s118 Come puoi notare di luce qui ne entra proprio poca. Lungo le umide pareti puoi osservare ancora delle torce.
+s2 Dalla spÅsa che senti non farai fatica a comprendere che ti trovi nel corridoio d'la savata.
+s4 Osservando gli affreschi di questa stanza potrai apprezzare una pittura tipica del nostro contado. Si tratta di alcuni esempi della pittura del maestro Giuan Comoglio detto 'l VernisamÅr.
+s1 La stanza ove ti trovi ä l'anticamera del nuovo maniero, e me 'nt'la porta dell'Inferno di Dante anche qui una minacciosa scritta appare: "LA MALEDIZIONE DEL CONTE VI COLPIRA' SEMPRE!".
+s3 Questo sottoscala veniva usato dalla servitó per riporre del materiale per la pulizia del castello. Puoi ancora scorgere qualche ramasa ad bîsc.
+s11 Come potrai capire annusando la spÅsa che entra in tale stanza, non puoi che essere nel precesso.
+s12 Se nei tubi l'acqua non vi ä, per pulire a vanta spuä!
+s6 Sei entrato ove i figli del conte passavano per andare nel mondo della luna. Un baldacchino color ocra sovrasta i letti dei pargoli.
+s5 Come avrai letto nell'ampia bibliografia sul nostro paese, i Biandrate non ebbero mai una gran fortuna economica, tant'ä che con le palle dei cannoni ricavarono piombo per fermare i vetri. Le vetrate sopra le porte ne sono testimonianza.
+s10 La stanza in cui ti trovi ä buia; una sola finestra permette a una tenue luce di filtrare. Da quest'ultima potrai osservare la facciata sud del castello vecchio.
+s13 Quello che ora puoi osservare ä un pianerottolo ove molto tempo fa la servitó passava nello svolgere quotidiano delle attivitÖ. Di fronte alle strette scale si trova una grata piena di ciuende tant'ä che la luce fatica a passare.
+s15 Ora ti trovi nel sontuoso salone delle danze. Nelle lunghe notti di festa i grandi lampadari di cristallo rischiaravano i Signori che si davano a vorticose danze. Le decorazioni di questo salone sono di stampo rinascimentale.
+s16 Il salone in cui sei entrato ä l'ingresso principale della nuova costruzione. Da qui i conti facevano passare gli ospiti per accoglierli nelle sontuose stanze adiacenti.
+s17 Il luogo ove ti trovi ä dove venivano tenuti gli utensili atti alla ordinaria manutenzione dei serramenti del castello. Qui si trova ancora una forgia dove venivano preparati alcuni manufatti di ferro.
+s7 Accedi ora nella cosiddetta stanza dij pouvrun. Le pareti sono infatti ornate da motivi floreali che ricordano la tipica verdura da mìiar 'nt'l'îli.
+s8 Sei entrato nella stanza detta della ciuenda. Infatti sopra l'armadio a muro puoi scorgere una pittura che mostra una siepe.
+s20 In cotesto loco si trova un piccolo forno; questo serviva a tenere al caldo le vettovaglie, che giungevano dal piano inferiore, dirette ai saloni dei piani superiori.
+s83 Il pianerottolo ove sei ä riccamente decorato con marmo. Attraverso tale stanza passavano comunemente i signori utilizzando le scalinate adiacenti.
+s9 Sei entrato in una stanza che gelida diventa nelle lunghe notti d'inverno. Infatti osservando il soffitto puoi scorgere una botola dalla quale un freddo spiffero giunge.
+s51 La stanza ove ti trovi mostra vaghi segni d'invecchiamento. ê facile notare come il soffitto, ormai curvo a causa degli anni, triste sembra dirti: "da viver poco mi resta".
+
+
+* Frasi 'di servizio', contenenti macros %<qualcosa>
+
+.1 Nella mia millenaria memoria non c'ä nulla sulla stanza "%s". Scusa.
+.2 ê una normalissima porta con nessun particolare che possa esserti utile.
+.3 Pur con la mia onniscenza, non so dirti niente riguardo
+.4 Non puoi muoverti in questa direzione: non ci sono aperture nella parete. Ti ricordo che non sei etereo, ma materiale, e come tale non passi attraverso i muri.
+.5 Non hai visto che la porta ä chiusa? Purtroppo non sei ancora abbastanza magro da passare attraverso il buco della serratura.
+.6 Per favore non prendermi in giro: ti sembro cosç stupido da credere che tu voglia aprire una porta giÖ aperta? Ma... un momento... forse lo stupido sei tu...!
+.7 Non fare l'idiota: non si ä mai visto nessun sano di mente cercare di chiudere una porta giÖ chiusa. Non vorrai essere il primo?
+.8 Adesso esageri. A prescindere dal fatto che non sei un muratore, come pensi di poter chiudere un'apertura nel muro? Certo che ne hai di fantasia...
+.9 Non puoi aprire questa porta: ä chiusa a chiave.
+.10 Nonostante i tuoi sforzi, la porta non si apre: sembra che sia completamente bloccata.
+.11 Mi sembra ovvio che non puoi prendere
+.12 Hai preso
+.13 Hai posato
+.14 Hai aperto la porta.
+.15 Hai chiuso la porta.
+

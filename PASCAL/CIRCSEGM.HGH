@@ -1,0 +1,147 @@
+(***********************************************************)
+(*                                                         *)
+(*                TURBO GRAPHIX version 1.05A              *)
+(*                                                         *)
+(*              Circle segment drawing module              *)
+(*                  Module version  1.00A                  *)
+(*                                                         *)
+(*                  Copyright (C) 1985 by                  *)
+(*                  BORLAND International                  *)
+(*                                                         *)
+(***********************************************************)
+
+procedure DrawCircleSegment(xr0,yr0:real;
+                            var xr1,yr1:real;
+                            inner,outer,phi,area:real;
+                            txt:wrkstring;
+                            option,scale:byte);
+
+  var FaktC,FaktS,CDummy,c,s,radius: real;
+      Phi1,DeltaPhi,CosPhi,SinPhi,CosDphi,SinDphi:real;
+      DeltaX,DeltaY,xr2,yr2,RadiusLoc,X0Loc,Y0Loc,X1Loc,Y1Loc:real;
+      i,AsciiCode,TextLen,n,x0,y0,x1,y1,x2,y2:integer;
+      DirectModeLoc:boolean;
+      TempText:wrkstring;
+
+  procedure ClippedLine(x1,y1,x2,y2:integer);
+
+    begin
+      if clip(x1,y1,x2,y2) then DrawLine(x1,y1,x2,y2);
+    end;
+
+  procedure ClippedPoint(x,y:integer);
+
+    begin
+      if ClippingGlb then
+       begin
+        if (x>=X1RefGlb shl 3) and (x<X2RefGlb shl 3+7) then
+          if (y>=Y1RefGlb) and (y<=Y2RefGlb) then dp(x,y);
+       end
+      else dp(x,y);
+    end;
+
+  begin { DrawCircleSegment }
+    X0Loc:=xr0;
+    Y0Loc:=yr0;
+    X1Loc:=xr1;
+    Y1Loc:=yr1;
+    RadiusLoc:=sqrt(sqr(X1Loc-X0Loc)+sqr(Y1Loc-Y0Loc));
+    if RadiusLoc>0.0 then
+     begin
+      option:=abs(option);
+      inner:=abs(inner);
+      outer:=abs(outer);
+      scale:=abs(scale);
+      DirectModeLoc:=DirectModeGlb;
+      DirectModeGlb:=true;
+      phi:=phi*pi/180.0;
+      if abs(phi)/(2.0*pi)>1.0 then phi:=2.0*pi;
+      n:=trunc(RadiusLoc*abs(phi)/9.0);
+      if n<2 then n:=2;
+      if (abs(xr1-xr0)>0) and (abs(yr1-yr0)>0) then Phi1:=arctan((yr1-yr0)/(xr1-xr0))
+      else if xr1-xr0=0 then
+        if yr1-yr0>0 then Phi1:=pi/2.0
+        else Phi1:=1.5*pi
+      else if xr1>xr0 then Phi1:=0.0
+      else Phi1:=pi;
+      DeltaPhi:=phi/(n-1);
+      c:=1.0;
+      s:=0.0;
+      CosPhi:=cos(Phi1);
+      SinPhi:=sin(Phi1);
+      CosDphi:=cos(DeltaPhi);
+      SinDphi:=sin(DeltaPhi);
+      if xr1<xr0 then
+       begin
+        FaktS:=-1;
+        FaktC:=-1;
+       end
+      else
+       begin
+        FaktS:=1;
+        FaktC:=1;
+       end;
+      if (yr1=yr0) and (xr1<xr0) then
+       begin
+        FaktC:=-FaktC;
+        FaktS:=-FaktS;
+       end;
+      if area<0 then
+       begin
+        area:=abs(area);
+        DeltaX:=FaktC*0.3*RadiusLoc*cos(phi/2+Phi1);
+        DeltaY:=trunc(FaktS*0.3*AspectGlb*RadiusLoc*sin(phi/2+Phi1)+0.5);
+        xr0:=xr0+DeltaX;
+        yr0:=yr0+DeltaY;
+       end;
+      x0:=WindowX(xr0);
+      y0:=WindowY(yr0);
+      if not DirectModeLoc then ClippedPoint(x0,y0) else dp(x0,y0);
+      x1:=x0;
+      y1:=y0;
+      for i:=1 to n do
+       begin
+        xr2:=xr0+FaktC*RadiusLoc*(CosPhi*c-SinPhi*s);
+        x2:=WindowX(xr2);
+        yr2:=yr0+AspectGlb*RadiusLoc*FaktS*(SinPhi*c+CosPhi*s);
+        y2:=WindowY(yr2);
+        if not DirectModeLoc then ClippedLine(x1,y1,x2,y2)
+        else DrawLine(x1,y1,x2,y2);
+        x1:=x2;
+        y1:=y2;
+        CDummy:=c*CosDphi-s*SinDphi;
+        s:=s*CosDphi+c*SinDphi;
+        c:=CDummy;
+       end;
+      if not PieGlb then
+        if not DirectModeLoc then ClippedLine(x1,y1,x0,y0)
+        else DrawLine(x1,y1,x0,y0);
+      if (option>0) and (phi<2.0*pi) then
+       begin
+        xr1:=xr0+FaktC*RadiusLoc*inner*cos(phi/2.0+Phi1);
+        yr1:=yr0+FaktS*AspectGlb*RadiusLoc*inner*sin(phi/2.0+Phi1);
+        xr2:=xr0+FaktC*RadiusLoc*outer*cos(phi/2.0+Phi1);
+        yr2:=yr0+FaktS*AspectGlb*RadiusLoc*outer*sin(phi/2.0+Phi1);
+        x1:=WindowX(xr1);
+        y1:=WindowY(yr1);
+        x2:=WindowX(xr2);
+        y2:=WindowY(yr2);
+        if not DirectModeLoc then ClippedLine(x1,y1,x2,y2)
+        else DrawLine(x1,y1,x2,y2);
+        str(area:1:2,TempText);
+        case option of
+          1: TempText:=txt;
+          2: TempText:=txt+TempText;
+        { 3: TempText:=TempText; }
+         end;
+        TextLen:=length(TempText);
+        if x2>=x0 then x2:=x2+scale*6
+        else x2:=x2-TextLen*6*scale;
+        DrawText(x2,y2,scale,TempText);
+       end;
+      xr1:=X0Loc+FaktC*RadiusLoc*cos(phi+Phi1);
+      yr1:=Y0Loc+FaktS*RadiusLoc*sin(phi+Phi1);
+      DirectModeGlb:=DirectModeLoc;
+     end;
+  end;
+

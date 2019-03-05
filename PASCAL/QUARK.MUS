@@ -1,0 +1,99 @@
+! Johan Sebastian Bach
+! Sigla di Quark
+
+%90 @·Z
+
+-^ !legato-staccato
+=4
+
+! 1a riga
+2F< 2M<
+2R< 2D<
+Z<< =8 R> Z S F M F
+=4 2M R 2D  !1/4 nella prossima
+=8 $M R 2$M 2D>. !1/8 nella prossima
+L $M R S #F D> Z
+
+! 2a riga
+2Z S F S L Z S
+Z S R D F M Z L
+6L *Z D>
+2F =16 F S =8 2L S S F
+M R =16 R M =8 3F M R
+D< R< M< F< S< $Z< L< S<
+
+! 3a riga
+=1 L
+=4 L< F< M< R<
+D< =8 R> Z S F M F
+=2 M =4 R D
+D =8 $M R =2 $M
+=8 D> L $M R S #F D> Z
+
+! 4a riga
+2Z S< F< S< L< Z< L<
+Z S R D F M Z L
+6L *Z D>
+2F =16 F S =8 2L S S F
+M R =16 R M =8 3F M R =1 D
+
+!inizia il ritornello
+=8 5M =16 F M R M =8 D
+D R 3$M R D Z<
+L< Z< D L< R> D> Z L
+=4 L =16 5Z L S F =8 M R
+#D R 3M F 3S !1/8 segue
+F M R #D R 2M
+
+S F M R M =16 F S =8 F M
+=2 R D
+=8 5F L S F
+2R> *Z L 2S D> *Z
+=16 L S =8 D> =4 D R. =16 M F
+=4 M. =8 R 2D =16 M< F< S< M<
+
+=8 2D R $M 2F $L S
+2F M R 2M Z L
+2S #F M 2#F D> Z
+L #F S 2R R Z< 3L< !1/4 segue
+3D M S Z
+Z S M F 2L L =16 Z D>
+
+=8 5F L D> $M>
+=4 $M> 2R> F
+=8 M S Z Z< R D Z< L<
+2S< S =16 L 3Z =8 2L S
+=16 F M =8 2R M =16 M F M R =8 M F
+=1 F
+
+! ripeto il ritornello
+=8 5M =16 F M R M =8 D
+D R 3$M R D Z<
+L< Z< D L< R> D> Z L
+=4 L =16 5Z L S F =8 M R
+#D R 3M F 3S !1/8 segue
+F M R #D R 2M
+
+S F M R M =16 F S =8 F M
+=2 R D
+=8 5F L S F
+2R> *Z L 2S D> *Z
+=16 L S =8 D> =4 D R. =16 M F
+=4 M. =8 R 2D =16 M< F< S< M<
+
+=8 2D R $M 2F $L S
+2F M R 2M Z L
+2S #F M 2#F D> Z
+L #F S 2R R Z< 3L< !1/4 segue
+3D M S Z
+Z S M F 2L L =16 Z D>
+
+=8 5F L D> $M>
+=4 $M> 2R> F
+=8 M S Z Z< R D Z< L<
+2S< S =16 L 3Z =8 2L S
+=16 F M =8 2R M =16 M F M R =8 M F
+=1 F
+
+=1 ? !%
+

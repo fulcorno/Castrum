@@ -1,0 +1,54 @@
+all: environ.exe edit.exe cdat.exe viewmsp.exe soffitti.exe
+
+########################################################
+# cdat.exe - Compile DATa arrays
+
+CDATOBJS= ../globals.obj
+
+cdat.obj: ../globals.h ../drivers.h
+
+cdat.exe: cdat.obj $(CDATOBJS)
+	$(CC) $(CFLAGS) cdat.obj $(CDATOBJS) graphics.lib
+
+########################################################
+# environ.exe - create windowing environment
+
+ENVOBJS= ../windows.obj ../drivers.obj ../globals.obj
+
+environ.obj: ../windows.h ../drivers.h
+
+environ.exe: environ.obj $(ENVOBJS)
+	$(CC) $(CFLAGS) environ.obj $(ENVOBJS) graphics.lib
+
+########################################################
+# edit.exe - edit bitmap images
+
+EDITOBJS= ../drivers.obj
+
+edit.obj: ../drivers.h
+
+edit.exe: edit.obj $(EDITOBJS)
+	$(CC) $(CFLAGS) edit.obj $(EDITOBJS) graphics.lib
+
+########################################################
+# viewmsp.exe - MicroSoft Paint file viewer
+
+viewmsp.exe: viewmsp.c
+	$(CC) $(CFLAGS) viewmsp.c graphics.lib
+	
+########################################################
+# soffitti.exe - Generatore di "soffitti.byt"
+
+soffitti.obj: ../drivers.h
+
+soffitti.exe: soffitti.obj ../drivers.obj
+	$(CC) $(CFLAGS) soffitti.obj ../drivers.obj graphics.lib
+	
+########################################################
+# test.exe
+
+test: test.exe
+
+test.exe: test.obj
+	$(CC) test.obj ..\mouse\mouse.obj
+    

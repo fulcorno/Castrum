@@ -1,0 +1,113 @@
+* File "MENU.DAT"
+* contiene le informazioni sull'albero gerarchico dei menus, con le
+* indicazioni necessarie per passare dall'uno all'altro ed attivare le
+* giuste azioni sulle variabili di stato
+* FORMATO DI CODIFICA:
+* N.B. nelle stringhe '@'==<cr>
+*   <n^menu> <titolo menu>
+*   <n^tasto funzione> [#<n^icona>] <n^azione> <n^menu nuovo> [<scritta tasto>]
+*   ... idem per i restanti tasti attivati
+
+1 Menu'@principale
+1 #5 -01 -01 prendi@un@ogg.
+2 #6 -02 -02 posa@un@ogg.
+3 #1 +00 +02 @guarda
+4 #2 +00 +03 muo-@-viti
+5 #10 +00 -01 usa@oggetto@luogo
+6 #11 +00 -02 usa@oggetto@che hai
+7 #7 +00 +04 con-@-trol-@-li
+8 #3 0 +05 input@output@gioco
+9 #8 -11 +00 pausa@nel@gioco
+10 #57 -17 +00 @aiuto
+
+2 Che cosa@GUARDO ?
+1 #9 -04 +00 la@stanza
+2 #4 -07 -07 una@porta
+3 #12 -03 -02 un@oggetto@che hai
+4 #13 -03 -01 oggetto@nel@luogo
+
+3 Tipo di@MOVIMENTO
+1 #32 -09 +07 cambia@posi-@-zione
+2 #33 -08 +06 scegli@velo-@-cita'
+3 #28 -05 -07 apri@una@porta
+4 #29 -06 -07 chiudi@una@porta
+5 #16 -12 +11 @dormi
+7 #34 -10 +00
+8 #35 -10 +00
+9 #36 -10 +00
+10 #37 -10 +00
+
+4 CONTROLLI@esterni
+1 #30 +00 +08 uso@stam-@-pante
+2 #17 -18 +12 @musica
+3 #31 -14 +09 @grafica
+4 #19 -13 +10 prolis-@-sita'@storia
+
+5 Input/@/Output
+1 #14 -19 13 salva@il@gioco
+2 #15 -20 13 recu-@-pera@gioco
+3     -21 13 re-@-inizia@gioco
+4 #18 -16 13 esci@al@dos
+
+6 Scegli la@VELOCITA'
+1 #20 0 0 punta@di@piedi
+2 #21 0 0 cam-@mina@norm.
+3 #22 0 0 cam-@mina@svelto
+4 #23 0 0 @corri
+
+7 Scegli la@POSIZIONE
+1 #24 0 0 in@piedi
+2 #25 0 0 abbas-@sato
+3 #26 0 0 acco-@sciato
+4 #27 0 0 giu'@a 4@gambe
+
+8 Uso della@STAMPANTE
+1 #38 -15 0 @spenta
+2 #39 -15 0 storia@stan-@dard
+3 #40 -15 0 storia@in@gotico
+4 #41 -15 0 storia@stand.@figure
+5 #42 -15 0 storia@gotico@figure
+6 #43 -15 0 solo@le@figure
+10 #44  0 0 status@del@gioco
+
+9 Uso della@GRAFICA
+1 0 0 con@vista@cielo
+2 0 0 senza@vista@cielo
+3 0 0 vista@oggetto@sempre
+4 0 0 vista@oggetto@manuale
+5 0 0 tasti@funz.@PAROLE
+6 0 0 tasti@funz.@ICONE
+
+10 Prolissita'@pergamena
+1 0 0 narra@tue@azioni
+2 0 0 non@narra@azioni
+3 0 0 descri-@zioni@stanze
+4 0 0 niente@descriz@stanze
+5 0 0 descri-@zioni@oggetti
+6 0 0 niente@descriz@oggetti
+
+11 Per quanto@DORMI ?
+1 +00 +00 solo@un@pisolo
+2 +00 +00 fino@alla@mattina
+
+12 Scegli i SUONI@di commento:
+1 0 0 silen-@-zio@totale
+2 0 0 beep@con-@-ferma
+3 0 0 colonna@sonora@adatta
+4 0 0 motivo@para-@-noico
+9 0 0 @PLAY
+10 0 0 @STOP
+
+13 * ATTENZIONE *@Confermi ?
+1 0 0 @SI
+2 0 0 @NO
+
+14 Menu'@principale
+1 -22 -00 inizia@il@gioco
+7 #7 +00 +04 con-@-trol-@-li
+8 #3 0 +05 input@output@gioco
+9 #8 -11 +00 pausa@nel@gioco
+10 #57 -17 +00 @aiuto
+
+0
+

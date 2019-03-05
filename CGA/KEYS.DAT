@@ -1,0 +1,40 @@
+*** INTRO ***
+3a 90b 3a
+2a 92b 2a
+a 94b a
+8b 35e 11b 35e 7b
+7b e 35c e 9b e 35c e 6b
+6b e 37c 8b e 37c 6b
+5b a e 36c 2e 6b a e 36c 2e 5b
+4b 3a e 34c 4e 4b 3a e 34c 4e 4b
+3b d 4a e 32a 5e 3b d 4a e 32a 5e 4b
+2b 2d 5a 32e a 4e 2b 2d 5a 32e a 4e 4b
+b 3d 5a 32e a 4e b 3d 5a 32e a 4e 4b
+4d 5a 32e a 4e 4d 5a 32e a 4e 4b
+4d 5a 32e a 3e c 4d 5a 32e a 4e 4b
+4d 5a 32e a 2e 2c 4d 5a 32e a 4e 4b
+4d 5a 32e a e 3c 4d 5a 32e a 4e 4b
+*** EXC ***
+4d 38a 4c 4d 38a 4e 4b
+4d 39a 3c 4d 39a 3e 4b
+5d 39a c 6d 39a e 5b
+6d 38a 8d 38a 6b
+7d 36a 10d 36a 7b
+7d 36c 10d 36c 7b
+6d 38c 8d 38c 6b
+5d a e 36c e c 6d a e 36c 2a 5b
+4d 3a e 34c a 3c 4d 3c a 34c 4e 4b
+4d 4a e 32a e 4c 4d 4a e 32a 5e 4b
+*** FINE ***
+4d 38a 4c 4d 38a 4e 4b
+4d 39a 3c 4d 39a 3e 4b
+5d 39a c 6d 39a e 5b
+6d 38a 8d 38a 6b
+7d 36a 10d 36a 7b
+88d 8b
+a 86d 8b a
+2a 84d 8b 2a
+3a 82d 8b 3a
+*** BODY ***
+4d 5a 32e a 4c 4d 5a 32e a 4e 4b
+

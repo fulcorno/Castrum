@@ -1,0 +1,105 @@
+PANICO DI SPOSTAMENTO
+
+n0 porta:
+n0 progr:
+Vi 
+Vpi
+peso [miria], velocita` [vouleur], altezza [spanne], COSTANTI: MIN & MAX 
+* B e n e   &   M a l e
+	n^luogo
+	robust_soglia
+	D.en%
+	Dfat
+	Dmor
+	Dpat
+	peso_min
+	peso_max
+	ingombro_min
+	ingombro_max
+	COMMENTO
+QUESITO
+
+PANICO DI AZIONE
+
+n0 oggetto:
+n0 progr:
+Verbi:
+	ESAURIMENTO senza
+	ESAURIMENTO con
+	ATTIVAZIONE    senza
+	DISATTIVAZIONE senza
+	DISATTIVAZIONE con
+	AZIONE con
+Stato iniziale: ATTIVO | POTENZIALE
+* B e n e   &   M a l e
+	Den%
+	Dmor
+	Dfat
+	Dpat
+	COMMENTO
+QUESITO
+
+PANICO DI POSIZIONE
+
+n0 sottostanza:
+n0 progr:
+Vi
+Vpi
+* B e n e   &   M a l e
+	n^luogo
+	robust_soglia
+	D.en%
+	Dfat
+	Dmor
+	Dpat
+	peso_min
+	peso_max
+	ingombro_min
+	ingombro_max
+ 	Dsonno
+	Dsete
+	Dimpop
+	oggetti persi
+	COMMENTO
+QUESITO
+
+PANICO DI MILLENARIO
+
+n0 progr:
+Stato: { "<" o ">"; val% }
+	ENERGIA, SONNO,	SETE, FATICA, MORALE, PATOLOGIA, ANTIPATIA
+* B e n e: { MIN, MAX } (solo se compare nella diseq.)
+	ENERGIA, SONNO,	SETE, FATICA, MORALE, PATOLOGIA, ANTIPATIA
+COMMENTO
+QUESITO
+
+Quesito TIPO  1 : il quiz
+
+n0 progr:
+tempo [s]
+Domanda:
+*R1
+R2
+R3
+R4
+Commenti per le risposte 'sbagliate`:
+	C2, C3, C4
+
+Quesito TIPO  2 : l'indovinello
+
+n0 progr:
+Domanda:
+*R1
+R2
+R3
+R4
+Spiegazione dell'indovinello: C1
+
+Quesito TIPO  3 : il folletto
+
+musica:
+n0 progr:
+Nome folletto:
+Descrizione:
+Frase detta:
+
